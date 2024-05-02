@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta para Ananda</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Para: [Nome dela]</h1>
+        <div class="content">
+            <p>Espero que este site encontre você bem...</p>
+            <p>... Claro, entendo como pode ser difícil lidar com a ansiedade e a insegurança em situações assim. Vamos tentar escrever algo que transmita sinceridade e seu desejo de reconciliação. Aqui está uma sugestão:
+
+---
+
+Querida [Nome dela],
+
+Espero que este cartão encontre você bem. Antes de tudo, quero dizer o quanto lamento por deixar as coisas ficarem complicadas entre nós. Desde o momento em que nos conhecemos, fiquei impressionado com sua beleza, inteligência e charme. Você é verdadeiramente incrível.
+
+No entanto, deixei que o medo e a insegurança dominassem minha mente, o que me impediu de dar o próximo passo em direção a algo especial entre nós. Eu me arrependo profundamente por não ter sido corajoso o suficiente naquela época.
+
+Quero que saiba que minha falta de comunicação não foi por falta de interesse. Pelo contrário, cada dia que passou desde então, tenho pensado em você e nas oportunidades que perdi por não ter agido.
+
+Este cartão é uma tentativa humilde de expressar meu remorso e, mais importante, meu desejo sincero de reconstruir nossa conexão. Se você estiver disposta a me dar outra chance, prometo ser mais corajoso, mais honesto e mais presente.
+
+Entendo se minhas palavras não forem o suficiente para apagar as incertezas que surgiram entre nós, mas espero que possam pelo menos abrir uma porta para uma conversa honesta e, quem sabe, para um recomeço.
+
+Com todo o meu respeito e admiração,
+[Seu nome]...</p>
+            <p>Com todo o meu respeito e admiração,</p>
+            <p>[Seu nome]</p>
+        </div>
+    </div>
+</body>
+</html>
